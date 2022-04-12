@@ -19,6 +19,8 @@ Website functionality:
 
   + filter and search engine keywords or phrases on the website for both the user and the platform administrator;
   
-  + the ability to view the accounts of registered users. 
+  + the ability to view the accounts of registered users;
+  
+  + cross-platform adaptation.
 
 
