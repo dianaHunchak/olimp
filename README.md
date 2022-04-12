@@ -1,6 +1,8 @@
 # olimp
 Website for organization of educational olympiads in blog format in the Ukrainian language. Developed using a PHP-based web framework Laravel that is largely based on the MVC architecture. 
 
+You can visit the website by clicking on the link: http://olimp.adr.com.ua
+
 
 ![main page of website](https://github.com/dianaHunchak/olimp/blob/main/main%20page.png)
 
