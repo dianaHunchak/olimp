@@ -2,7 +2,7 @@
 Website for organization of educational olympiads in blog format in the Ukrainian language. Developed using a PHP-based web framework Laravel that is largely based on the MVC architecture. 
 
 
-
+https://github.com/dianaHunchak/olimp/blob/main/main%20page.png
 
 Website functionality:
   + the ability to register and authorize users on the website;
